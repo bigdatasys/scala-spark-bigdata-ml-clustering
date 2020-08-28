@@ -37,9 +37,7 @@
             <groupId>org.apache.spark</groupId>
             <artifactId>spark-mllib_2.12</artifactId>
             <version>${sparkVersion}</version>
-            <scope>runtime</scope>
         </dependency>
-
     </dependencies>
 
     <build>
